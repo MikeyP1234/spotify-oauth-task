@@ -4,8 +4,8 @@ import json
 # Set the POST data
 data = {
     'grant_type': 'client_credentials',
-    'client_id': '58a49365b06d4451ac74c393f3e5c139',
-    'client_secret': '680fa12eb9974ce2881959998a72cd35'
+    'client_id': 'removed',
+    'client_secret': 'removed'
 }
 
 # Set headers
